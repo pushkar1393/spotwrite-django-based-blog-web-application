@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 django_spotwrite/django_spotwrite/secrets.py
+django_spotwrite/media/profile_pics/**
+
+.DS_Store
